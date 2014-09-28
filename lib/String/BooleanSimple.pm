@@ -1,5 +1,5 @@
 package String::BooleanSimple; ## Gets the boolean representative of a string
-$String::BooleanSimple::VERSION = '0.022';
+$String::BooleanSimple::VERSION = '0.023';
 
 
 
