@@ -15,4 +15,3 @@ foreach my $module (@modules) {
     ok(!$@, "$module compiles");
 }
 
-1;
